@@ -3,7 +3,7 @@
 This README markdown is to express what intent this repository has.
 
 ## Getting Started
- The general purpose is to show the general skills I have acquired using the C++ programming language to make small applications. 
+ The purpose is to show the general skills I have acquired using the C++ programming language to make small applications. 
 
 ## Built With
 
