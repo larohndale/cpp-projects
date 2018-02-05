@@ -5,8 +5,7 @@ int main() {
     std::string age; 
     std::string favorite_food;
     std::string number_of_pets; 
-    std::string favorite_movie; 
-    std::string kitty;
+    std::string favorite_movie;
 
     std::cout << "What is your name?\n";
     getline(std::cin, name);
